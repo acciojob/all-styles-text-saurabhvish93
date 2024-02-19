@@ -5,7 +5,7 @@
 	width: 200px;
 	background-color: purple;
 	border-left: 5px solid green;
-	
+	padding: 10px;
 }
 u {
 	text-decoration: none;
@@ -14,5 +14,5 @@ u {
 .heading {
 	font-size: 20px;
 	color: white;
-	padding: 10px;
+	
 }
